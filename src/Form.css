@@ -1,0 +1,13 @@
+.container {
+    background-color: lightgray; /* Cambiar por el color deseado */
+    padding: 20px; /* Ajustar el relleno según el diseño */
+    border-radius: 10px; /* Agregar bordes redondeados */
+  }
+  h1 {
+    background-color: rgb(160, 242, 242); /* Cambiar por el color deseado */
+    padding: 10px; /* Ajustar el relleno según el diseño */
+    text-align: left; /* Alinear el texto a la izquierda */
+    border-radius: 5px; /* Agregar bordes redondeados */
+  }
+  
+  
