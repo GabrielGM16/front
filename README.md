@@ -1,6 +1,6 @@
 Instalar los node modules 
 
-npm -i
+npm i
 
 instalar bootstrap
 
